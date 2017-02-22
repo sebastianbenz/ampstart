@@ -16,9 +16,9 @@
 
 :root {
   --color-primary: #fff;
-  --color-font-primary: #280e75;
+  --color-font-primary: #B60845;
 
-  --color-secondary: #280e75;
+  --color-secondary: #B60845;
   --color-font-secondary: #fff;
   --content-max-width: 100%;
 
@@ -35,7 +35,6 @@
 
   --color-highlight-background: #f9f7f7;
 
-  --header-gradient: linear-gradient(to right, #280e75 0%, #066573 100%);
-
   --font-family: Montserrat, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  --header-gradient: linear-gradient(to right, #94103E 0%, #DB004D 100%);
 }
