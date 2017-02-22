@@ -17,9 +17,9 @@
 
 :root {
   --color-primary: #fff;
-  --color-font-primary: #2c0575;
+  --color-font-primary: #B60845;
 
-  --color-secondary: #2c0575;
+  --color-secondary: #B60845;
   --color-font-secondary: #fff;
   --content-max-width: 100%;
 
@@ -36,5 +36,5 @@
 
   --color-highlight-background: #f9f7f7;
 
-  --header-gradient: linear-gradient(to right, #150573 0%, #68067B 100%);
+  --header-gradient: linear-gradient(to right, #94103E 0%, #DB004D 100%);
 }

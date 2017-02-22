@@ -18,6 +18,6 @@
   --color-input-default: var(--color-dark-grey);
   --color-input-primary: var(--color-primary);
   --color-input-font-primary: var(--color-font-primary);
-  --color-input-secondary: var(--color-secondary);
+  --color-input-secondary: var(--color-font-primary);
   --color-input-font-secondary: var(--color-font-secondary);
 }
